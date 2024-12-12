@@ -1,6 +1,7 @@
 # Java Maze Project
 
 This is a Java program that generates and solves mazes using various algorithms. It includes a graphical user interface for displaying the mazes and the solving process.
+![maze demo](https://github.com/user-attachments/assets/4f00f5dc-f172-4557-9bea-9c14c9e6b88f)
 
 ## Getting Started
 
