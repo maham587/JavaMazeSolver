@@ -1,0 +1,13 @@
+/bin/
+
+# Eclipse specific files
+.project
+.classpath
+.settings/
+.metadata/
+bin/
+target/
+
+# VS Code specific files
+.vscode/
+
