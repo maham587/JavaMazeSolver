@@ -11,3 +11,4 @@ target/
 # VS Code specific files
 .vscode/
 
+.DS_Store
